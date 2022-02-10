@@ -1,3 +1,5 @@
+package Personnage;
+
 public class Personnage {
 	//public String honte_nom;
 	// les attributs
